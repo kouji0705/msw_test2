@@ -1,6 +1,7 @@
 # はじめに
 mswのHands-onです。下記記事を参考に構築ください。
-https://qiita.com/drafts/db4f725cfe151aab8b64/edit
+
+https://qiita.com/kouji0705/items/db4f725cfe151aab8b64
 
 ### 実行方法
 `yarn start`
